@@ -1,0 +1,277 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scene/menu.unity
+    guid: 22af7602ea9524241a2b7c02333486df
+  - enabled: 1
+    path: Assets/Scene/preview.unity
+    guid: 94e145012946dd644aa3f65696bb99f2
+  - enabled: 1
+    path: Assets/Scene/memoria/cartas/cartas1.unity
+    guid: 8929a711e9d56ba42bcb1e017716eb08
+  - enabled: 0
+    path: Assets/Scene/memoria/caras/caras1.unity
+    guid: 255c74b1b71e01e4ca2650757bdde1f1
+  - enabled: 0
+    path: Assets/Scene/memoria/historia/historia1.unity
+    guid: 6769ef094ac7c4146a0281e4c573bdb7
+  - enabled: 0
+    path: Assets/Scene/memoria/historia/Respuestas1_1.unity
+    guid: 1c93954937355d74cbc598b48bbc27aa
+  - enabled: 0
+    path: Assets/Scene/memoria/historia/Respuestas1_2.unity
+    guid: 3e4cfccc9b26f4b41b5287456d39dcbb
+  - enabled: 0
+    path: Assets/Scene/memoria/historia/Respuestas1_3.unity
+    guid: af78093b547100244a6f246b62751f9d
+  - enabled: 0
+    path: Assets/Scene/memoria/secuencias/secuencias.unity
+    guid: fa707693c60a8e04ca81d5782eb8235e
+  - enabled: 0
+    path: Assets/Scene/memoria/secuencias/seleccion.unity
+    guid: 138d9793002f4fb49b4bd223f305d0f3
+  - enabled: 0
+    path: Assets/Scene/memoria/secuencias/secuencias2.unity
+    guid: a0a515428d0604b48bfebdc9228d0af6
+  - enabled: 0
+    path: Assets/Scene/memoria/secuencias/seleccion2.unity
+    guid: 107da4464ea140245865c2174ed37b40
+  - enabled: 0
+    path: Assets/Scene/memoria/secuencias/secuencias3.unity
+    guid: 6f783f47e43ce694ea8f3ce2d018053a
+  - enabled: 0
+    path: Assets/Scene/memoria/secuencias/seleccion3.unity
+    guid: 77887d15890b456448b653cc346aacd5
+  - enabled: 0
+    path: Assets/Scene/lenguaje/afirmaciones/afirmaciones.1.unity
+    guid: 8c85df74890918f43b7efd52f50ba657
+  - enabled: 0
+    path: Assets/Scene/lenguaje/afirmaciones/afirmaciones.unity
+    guid: eff94669e43789d4e92fea9e0974801c
+  - enabled: 0
+    path: Assets/Scene/lenguaje/afirmaciones/afirmaciones.2.unity
+    guid: 210939f5e6a1aa04ea2aef7cad111ad9
+  - enabled: 0
+    path: Assets/Scene/lenguaje/afirmaciones/afirmaciones2.unity
+    guid: 401467dbeb9952146a9b15b0a8deea6d
+  - enabled: 0
+    path: Assets/Scene/lenguaje/afirmaciones/afirmaciones.3.unity
+    guid: eb20ae1a77135de438b31ba5ab193041
+  - enabled: 0
+    path: Assets/Scene/lenguaje/afirmaciones/afirmaciones3.unity
+    guid: 5bc5fb545a8a9ab4d9812d4800a5557d
+  - enabled: 0
+    path: Assets/Scene/lenguaje/afirmaciones/afirmaciones.4.unity
+    guid: a810c10915e3f2249b1fed24613b504d
+  - enabled: 0
+    path: Assets/Scene/lenguaje/afirmaciones/afirmaciones4.unity
+    guid: c2c8134f3f004184898669a9a1c03d0f
+  - enabled: 1
+    path: Assets/Scene/lenguaje/objetos_voz/obj_voz1.unity
+    guid: 992b60e809179804ca66a89ab8bd6ec8
+  - enabled: 0
+    path: Assets/Scene/percepcion/Figuras/NIVEL1/Figuras_1.unity
+    guid: e53ea2977445db343a18e58828f89cd8
+  - enabled: 0
+    path: Assets/Scene/percepcion/Figuras/NIVEL1/Figuras_2.unity
+    guid: 9794fa3c5f01f8a4fbbf50be70838062
+  - enabled: 0
+    path: Assets/Scene/percepcion/Figuras/NIVEL1/Figuras_3.unity
+    guid: 05c1c51483f7e6543bd8a2545c842f39
+  - enabled: 0
+    path: Assets/Scene/percepcion/laberintos/laberinto.unity
+    guid: 581d069b68f427d42a0c3f7f7fbb5e87
+  - enabled: 1
+    path: Assets/Scene/percepcion/lugares/lugar1_1.unity
+    guid: e356e8818a0adc145a91db250b5e9ddf
+  - enabled: 1
+    path: Assets/Scene/percepcion/lugares/lugar1_2.unity
+    guid: ee4cc9ce2e75f414080e72ed463d608f
+  - enabled: 1
+    path: Assets/Scene/funciones ejecutivas/climas/clima1_1.unity
+    guid: 343d44f4e5823a44299666701448c1ab
+  - enabled: 1
+    path: Assets/Scene/funciones ejecutivas/climas/clima1_2.unity
+    guid: 5a0b3408d291d2e448fbee75b8f00963
+  - enabled: 1
+    path: Assets/Scene/funciones ejecutivas/pasos/pasos1.unity
+    guid: 09df1b1e033623342b98bb1dd5b5ec21
+  - enabled: 1
+    path: Assets/Scene/funciones ejecutivas/plan/plan1.unity
+    guid: 815446d10eff2524fbec1677114e0488
+  - enabled: 0
+    path: Assets/Scene/lenguaje/objetos_lug/obj_lug1.unity
+    guid: 2c9f7a7bae9d19942b1bee6626c81c77
+  - enabled: 0
+    path: Assets/Scene/lenguaje/objetos_lug/obj_lug2.unity
+    guid: d3623c95930ee7041b30f1836735fa41
+  - enabled: 0
+    path: Assets/Scene/lenguaje/objetos_lug/obj_lug3.unity
+    guid: dda252ed95c6bb74cb1664c2f7945f47
+  - enabled: 0
+    path: Assets/Scene/percepcion/Figuras/NIVEL2/Figuras2_1.unity
+    guid: efe7be62ad4150547b15a4c045b30bc5
+  - enabled: 1
+    path: Assets/Scene/memoria/cartas/cartas2.unity
+    guid: aefa7d3a63d6518449a3c8f26c04b521
+  - enabled: 0
+    path: Assets/Scene/memoria/caras/caras2.unity
+    guid: 46e0d5cc8fbc5c04f98e580ec1b6bc8d
+  - enabled: 0
+    path: Assets/Scene/memoria/historia/historia2.unity
+    guid: 83bc09c0490d0604cadc1076f607d19f
+  - enabled: 0
+    path: Assets/Scene/memoria/historia/Respuestas2_1.unity
+    guid: 8324459b2449a5e4badbab2d1f4a1ca3
+  - enabled: 0
+    path: Assets/Scene/memoria/historia/Respuestas2_2.unity
+    guid: 97cf5f74d0a43f546817b80063302ddb
+  - enabled: 0
+    path: Assets/Scene/memoria/historia/Respuestas2_3.unity
+    guid: c9c7b027fc080e1429bdbb73b2979d9a
+  - enabled: 1
+    path: Assets/Scene/lenguaje/objetos_voz/obj_voz2.unity
+    guid: 1db4bf6f48d80c543863d00e1954ae19
+  - enabled: 0
+    path: Assets/Scene/lenguaje/objetos_voz/obj_voz3.unity
+    guid: 833d7b761a4264149894506aaa05f510
+  - enabled: 1
+    path: Assets/Scene/memoria/secuencias/secuencias4.unity
+    guid: 54fb3abc9bb669e4b918dfffb1afd4de
+  - enabled: 1
+    path: Assets/Scene/memoria/cartas/cartas3.unity
+    guid: ecc022d054cc42a479e2962052067834
+  - enabled: 1
+    path: Assets/Scene/memoria/secuencias/seleccion4.unity
+    guid: 72f830c2652bc6e46a26958efc35c2cd
+  - enabled: 1
+    path: Assets/Scene/memoria/secuencias/secuencias5.unity
+    guid: 418d2a548c1a77943b2183996e45baae
+  - enabled: 1
+    path: Assets/Scene/memoria/secuencias/seleccion5.unity
+    guid: 873c95af5aaff404fa01097c5e817097
+  - enabled: 1
+    path: Assets/Scene/memoria/secuencias/secuencias6.unity
+    guid: 032e5e32a67a17c4daceab088eb877a6
+  - enabled: 1
+    path: Assets/Scene/memoria/secuencias/seleccion6.unity
+    guid: a39e1cb3135744e45a48731aed3b62eb
+  - enabled: 0
+    path: Assets/Scene/memoria/historia/Respuestas1_4.unity
+    guid: 42e604b7110d57341b36e17ac6fa7398
+  - enabled: 0
+    path: Assets/Scene/memoria/historia/Respuestas3_1.unity
+    guid: 6cd6b00b308e8b1418fe2b58259f9d95
+  - enabled: 0
+    path: Assets/Scene/memoria/historia/Respuestas3_2.unity
+    guid: 6e725727e616bae4d800689683b7bc5b
+  - enabled: 0
+    path: Assets/Scene/memoria/historia/Respuestas3_3.unity
+    guid: e862bea16206e5e4eb2dc6bfbe4f4f22
+  - enabled: 1
+    path: Assets/Scene/memoria/secuencias/secuencias7.unity
+    guid: ad48deb14db9224458a93f4414866714
+  - enabled: 1
+    path: Assets/Scene/memoria/secuencias/secuencias8.unity
+    guid: b14b46d233c73a540a4392aede5f612a
+  - enabled: 1
+    path: Assets/Scene/memoria/secuencias/secuencias9.unity
+    guid: 41e6c73253b4ab04792ea9b2a43d8e91
+  - enabled: 1
+    path: Assets/Scene/memoria/secuencias/seleccion7.unity
+    guid: df6648cb2463ba340913203cac8a9206
+  - enabled: 1
+    path: Assets/Scene/memoria/secuencias/seleccion8.unity
+    guid: bcece91e98d1f724fa039e009ae52c22
+  - enabled: 1
+    path: Assets/Scene/memoria/secuencias/seleccion9.unity
+    guid: 6dfd7c298dc6344408c3b5b31f895545
+  - enabled: 0
+    path: Assets/Scene/video1.unity
+    guid: a016e3e276a44c845821178e22ef7bcc
+  - enabled: 0
+    path: Assets/Scene/percepcion/Figuras/NIVEL3/Figuras3_1.unity
+    guid: 4a3ea9c1b34ceef488b44133b49c7efd
+  - enabled: 0
+    path: Assets/Scene/percepcion/Figuras/NIVEL2/Figuras2_2.unity
+    guid: 69f59abd1a4f8df419dc64c35b128ef7
+  - enabled: 0
+    path: Assets/Scene/percepcion/Figuras/NIVEL2/Figuras2_3.unity
+    guid: ab5c7c8400b9c704889d2d202d7a3bfb
+  - enabled: 0
+    path: Assets/Scene/percepcion/Figuras/NIVEL3/Figuras3_3.unity
+    guid: 0c1da8f8c2bf9b24ca2b742c3e474ae1
+  - enabled: 0
+    path: Assets/Scene/percepcion/Figuras/NIVEL3/Figuras3_2.unity
+    guid: f5675eb90400d5b4ea50c62ad3dd4a81
+  - enabled: 0
+    path: Assets/Scene/funciones ejecutivas/pasos/pasos2.unity
+    guid: c6e92767424a4784c894bf3b12936950
+  - enabled: 0
+    path: Assets/Scene/lenguaje/antonimos/antonimos.unity
+    guid: ebb295051ed0a624091f4adbf1d7a033
+  - enabled: 0
+    path: Assets/Scene/lenguaje/antonimos/antonimos2.unity
+    guid: c02778659f62c9c4f8e1225c38d33c5d
+  - enabled: 0
+    path: Assets/Scene/lenguaje/antonimos/antonimos4.unity
+    guid: 977f4ab45a2d43149acab7e5acd5c14f
+  - enabled: 0
+    path: Assets/Scene/lenguaje/antonimos/antonimos5.unity
+    guid: e50c8139d01c3e643a40944b5df8d64d
+  - enabled: 0
+    path: Assets/Scene/lenguaje/antonimos/antonimos6.unity
+    guid: 905d13853c0eceb43afa7f08beadd47e
+  - enabled: 1
+    path: Assets/Scene/percepcion/laberintos/laberinto2.unity
+    guid: 91a98fb26a108424e9a3d4cba7569b8f
+  - enabled: 0
+    path: Assets/Scene/percepcion/laberintos/laberinto3.unity
+    guid: 8643cd24402d2aa4992dd3cb22457be3
+  - enabled: 1
+    path: Assets/Scene/memoria/caras/caras3.unity
+    guid: ff40451eae9121247aed5a1bb5f90711
+  - enabled: 0
+    path: Assets/Scene/memoria/historia/historia3.unity
+    guid: 796a1eee1a8c1844fb7f5364f248ae04
+  - enabled: 0
+    path: Assets/Scene/percepcion/lugares/lugar2_1.unity
+    guid: 6be803e4c34214d4e857c7f4a22f7c0c
+  - enabled: 0
+    path: Assets/Scene/percepcion/lugares/lugar2_2.unity
+    guid: 150d9f61ab90f144998a395be3e5a516
+  - enabled: 1
+    path: Assets/Scene/percepcion/lugares/lugar3_1.unity
+    guid: 52de02e023be2264592ec9e386cb7dac
+  - enabled: 1
+    path: Assets/Scene/percepcion/lugares/lugar3_2.unity
+    guid: 5320005da85276f429370f308a039af5
+  - enabled: 0
+    path: Assets/Scene/funciones ejecutivas/climas/clima2_1.unity
+    guid: 9a24e9b5ac4b46b4d9472ee76b593995
+  - enabled: 0
+    path: Assets/Scene/funciones ejecutivas/climas/clima2_2.unity
+    guid: 7d147fc751f76014d8c43ac048c4c4c5
+  - enabled: 0
+    path: Assets/Scene/funciones ejecutivas/climas/clima3_1.unity
+    guid: 3f9ba1d639a2c88438d032447f9f0a6c
+  - enabled: 0
+    path: Assets/Scene/funciones ejecutivas/climas/clima3_2.unity
+    guid: 5f91e1c517a8ecb40897b3257405dd55
+  - enabled: 0
+    path: Assets/Scene/funciones ejecutivas/pasos/pasos3.unity
+    guid: 172bd7ac48602074796b45a2654b48b2
+  - enabled: 1
+    path: Assets/Scene/funciones ejecutivas/plan/plan2.unity
+    guid: be0890a373c8cf2449f068179b48ea61
+  - enabled: 1
+    path: Assets/Scene/funciones ejecutivas/plan/plan3.unity
+    guid: 5c8f4344d2a80144f804a36173ffb380
+  - enabled: 1
+    path: Assets/Scene/resultados.unity
+    guid: 1f9c94d6d5a311e47a496f463db8f492
